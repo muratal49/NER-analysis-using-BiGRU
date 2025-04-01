@@ -24,12 +24,6 @@ Key steps involved in the project:
 - seqeval (for NER evaluation)
 
 
-
-
-Download the GloVe embeddings: You can download the GloVe embeddings from here. Choose the embeddings that best suit your data, typically 300-dimensional embeddings (e.g., glove.6B.300d.txt).
-
-Prepare your dataset: Ensure your dataset is in a format compatible with NER tasks (e.g., CoNLL format) and adjust the data loading code accordingly.
-
 Acknowledgments
 This project is part of the NLP course offered at the University of Rochester.
 The model uses GloVe embeddings, which are publicly available.
